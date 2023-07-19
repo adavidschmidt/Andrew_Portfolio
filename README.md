@@ -1,7 +1,7 @@
 # Andrew_Portfolio
 Andrew Schmidt's Portfolio
 
-# Project 1: Data Analysis Capstone: Project Overview:
+# [Project 1: Data Analysis Capstone: Project Overview:](https://github.com/adavidschmidt/data_analysis_capstone)
 - Provided stakeholders with information to help make business decisions or aid in future research into the current issue.
 - Developed and understand the data provided and to be able to answer the questions brought to me by stakeholders
 - Provided deep insight and analysis into potential causes of employee turnover rates.
