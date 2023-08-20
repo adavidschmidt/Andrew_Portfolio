@@ -20,3 +20,9 @@ Andrew Schmidt's Portfolio
 <img src="https://github.com/adavidschmidt/Andrew_Portfolio/blob/main/Sample%20screenshots/Covid_portfolio_dashboard_sample.png?raw=true" width="400" height="300">
 
 
+# [Project 3: Web Scraper:](https://github.com/adavidschmidt/reddit_scraper)
+- Create a scraper to collect data from popular posts on Reddit.
+- Be able to export the data to a csv for exploration via other programs (SQL, Excel, etc.).
+- Use libraries such as Selenium, BeautifulSoup, and Pandas.
+- Gather key data points, such as post title, time of post, user who posted, number of upvotes, and number of comments
+- Wrote code in a jupyter notebook to allow for data exploration within the notebook if sought.
