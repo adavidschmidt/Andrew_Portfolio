@@ -10,7 +10,7 @@ Andrew Schmidt's Portfolio
 
 
 
-# [Project 2: Covid Data Exploration and Dashboard:](https://github.com/adavidschmidt/sql_portfolio/tree/main)
+# [Project 2: Covid Data Exploration and Dashboard:](https://github.com/adavidschmidt/Covid_sql_project)
 - Upload Covid data to SQL server using Microsoft SQL Server Management Studio.
 - Conduct data exploratory analysis on Covid data using SQL.
 - Use SQL to create temporary tables, views, and formulas to analyze the data further.
